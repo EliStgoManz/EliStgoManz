@@ -32,12 +32,12 @@
     
     <h2>Participante en el Hackaton: Hack Ocean de innovaccion virtual</h2>
     
-    <p>*como estudiante en la formación de developer fullstack de innovaccion virtual tuve la oportunidad de participar en el hackaton que tiene por nombre
+    <p>como estudiante en la formación de developer fullstack de innovaccion virtual tuve la oportunidad de participar en el hackaton que tiene por nombre
        hack the ocean, una oportunidad para colaborar con distintos compañeros, cada uno con habilidades y destrezas únicas, dicho evento se organizo los días 13 al 15 de mayo del año 2022.
-       Nuestro reto fue: * </p>
+       Nuestro reto fue:  </p>
     
-    <p> **Elaborar un proyecto web(fullstack) que de solución escalable y ágil a una problemática relacionada con los oceanos utilizando, las tecnologías, 
-       marcos de trabajo y metodologías revisadas en LaunchX de innovaccin virtual**</p>
+    <p> Elaborar un proyecto web(fullstack) que de solución escalable y ágil a una problemática relacionada con los oceanos utilizando, las tecnologías, 
+       marcos de trabajo y metodologías revisadas en LaunchX de innovaccin virtual</p>
     
     <h3>Los ejes del hackaton que se emplearon:</h3>
     
