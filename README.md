@@ -9,7 +9,7 @@
    
 <p>mi formación ha sido constante, tuve la gran experiencia de participar en la formación como desarrollador FULL STACK en el programa de innovaccion virtual, desarrolando habilidades:</p>
    
- <H1>FrontEnd</h1>
+ <H1>Desarrollo FrontEnd</h1>
  
  <ul>
   <li>HTML </li>
@@ -18,6 +18,19 @@
   <li>introducción  A frameworks: vue js, Angular</li>
   
  </ul>
+ 
+ 
+ <h1>Desarrollo Back</h1>
+ 
+ <ul>
+   <li>uso de Java:</li>
+   <li>uso de ID intellIJ IDEA</li>
+   <li>Paradigma Programación Orientada a Objetos</li>
+   <li>uso de contenedores con docker</li>
+ <ul>
+ 
+ 
+ 
  
  
 
