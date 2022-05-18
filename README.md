@@ -3,9 +3,11 @@
 
 <h3>Soy desarrollador de software, experiencia como freelancer, egresado de Ing. sistemas Computacionales del instituto Tecnológico de Oaxaca</h3>
 
-
 <p>mi formación profesional,ha sido en la carrera de ingeniería en sistemas computacionales, en el instituto tecnologico de OAXACA, generación 2014-1019.
-   Una experiencia academica buena, en mi tiempo como egresado he practicado como desarrollador freelancer, desarrollando proyectos, mi formación ha sido constante, tuve la gran experiencia de participar en la formación como desarrollador FULL STACK en el programa de innovaccion virtual, desarrolando habilidades:</p>
+   Una experiencia academica buena, en mi tiempo como egresado he practicado como desarrollador freelancer, desarrollando proyectos.</p>
+   
+   
+<p>mi formación ha sido constante, tuve la gran experiencia de participar en la formación como desarrollador FULL STACK en el programa de innovaccion virtual, desarrolando habilidades:</p>
    
  <H1>FrontEnd</h1>
  
