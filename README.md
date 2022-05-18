@@ -1,7 +1,7 @@
 ### Bienvenido a mi perfil  👋
 <h2>Hola que tal, Soy Elí Santiago Manzano <img src="https://media0.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47boqjhdds0igvdtif7qn0ilkf0hzbblkuvc9n6na3&rid=giphy.gif&ct=g" width=80 height=90> </h2>
 
-<h3>Soy desarrollador de software, experiencia como freelancer, egresado de Ing. sistemas Computacionales del instituto Tecnológico de Oaxaca</h3>
+<h3>Soy desarrollador de software, experiencia como freelancer</h3>
 
 <p>mi formación profesional,ha sido en la carrera de ingeniería en sistemas computacionales, en el instituto tecnologico de OAXACA, generación 2014-2019.
    Una experiencia academica buena, en mi tiempo como egresado he practicado como desarrollador freelancer, desarrollando proyectos.</p>
