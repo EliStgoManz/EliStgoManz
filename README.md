@@ -10,7 +10,7 @@
   <p>Lenguajes de programación en los que tengo conocimiento</p>
   
   <ul>
-   <li>JAVA: SYSTEM.OUT.PRINTLN("HOLA SOY ELÍ,DESARROJO EN LENGUAJE JAVA");</li>
+   <li>JAVA: SYSTEM.OUT.PRINTLN("HOLA SOY ELÍ,DESARROJO EN LENGUAJE JAVA"); <img src="https://media.giphy.com/media/mEhPCIDM2bTrl0XKTG/giphy.gif" width=80 heigth=90></li>
    <li>JAVASCRIPT: console.log("desarrollando proyectos e ideas con javaScript");</li>
    <li>PYTHON: print("conocimientos sobre fundamentos del lenguaje python");</li>
   
