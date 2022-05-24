@@ -31,13 +31,15 @@
  </ul>
  
  
- <h1>Desarrollo Back</h1>
+ <h1>Desarrollo Back END</h1>
  
  <ul>
    <li>uso de Java:</li>
    <li>uso de ID intellIJ IDEA</li>
    <li>Paradigma Programación Orientada a Objetos</li>
    <li>uso de contenedores con docker</li>
+   <li>Java web</li>
+   <li>JPAS, HIBERNATE,SERVLESS CON JAVA</li>
  <ul>
     
     
