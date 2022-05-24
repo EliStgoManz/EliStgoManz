@@ -13,6 +13,7 @@
    <li>JAVA: SYSTEM.OUT.PRINTLN("HOLA SOY ELÍ,DESARROJO EN LENGUAJE JAVA"); <img src="https://media.giphy.com/media/mEhPCIDM2bTrl0XKTG/giphy.gif" width=80 heigth=90></li>
    <li>JAVASCRIPT: console.log("desarrollando proyectos e ideas con javaScript");<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width=80 heigth=90></li>
    <li>PYTHON: print("conocimientos sobre fundamentos del lenguaje python");<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width=80 height=90</li>
+  <li>control de versiones: GIT y gitHub: <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width=80 height=90 </li>
   
    </ul>
    
