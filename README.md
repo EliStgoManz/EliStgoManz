@@ -31,6 +31,7 @@
   <li>hoja de estilos css</li>
   <li>Java Script</li>
   <li>introducción  A frameworks: vue js, Angular</li>
+   <li>conocimiento sobre arquitectura azure</li>
   
  </ul>
  
