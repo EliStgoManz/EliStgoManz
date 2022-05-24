@@ -7,6 +7,16 @@
    Una experiencia academica buena, en mi tiempo como egresado he practicado como desarrollador freelancer, desarrollando proyectos.</p>
    
    
+  <p>Lenguajes de programación en los que tengo conocimiento</p>
+  
+  <ul>
+   <li>JAVA: SYSTEM.OUT.PRINTLN("HOLA SOY ELÍ,DESARROJO EN LENGUAJE JAVA");</li>
+   <li>JAVASCRIPT: console.log("desarrollando proyectos e ideas con javaScript");</li>
+   <li>PYTHON: print("conocimientos sobre fundamentos del lenguaje python");</li>
+  
+   </ul>
+   
+   
 <p>mi formación ha sido constante, tuve la gran experiencia de participar en la formación como desarrollador FULL STACK en el programa de innovaccion virtual, desarrolando habilidades:</p>
    
  <H1>Desarrollo FrontEnd</h1>
