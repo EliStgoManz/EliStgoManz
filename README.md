@@ -22,7 +22,7 @@
    <p>Desarrollador de software en constante formación, con educación etica, trabajo en equipo, participante en la solución de problemas,gestión de proyectos</p>
    
    
-<p>mi formación ha sido constante, tuve la gran experiencia de participar en la formación como desarrollador FULL STACK en el programa de innovaccion virtual, desarrolando habilidades:</p>
+<p>mi formación ha sido constante, tuve la gran experiencia de participar en la formación como desarrollador FULL STACK en el programa de innovaccion virtual, desarrollando habilidades: </p>
    
  <H1>Desarrollo FrontEnd</h1>
  
